@@ -11,11 +11,12 @@ Given nums = [2, 7, 11, 15], target = 9,
 
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
+
+date: 1st 2020.01.09
  */
 
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class _001 {
 
