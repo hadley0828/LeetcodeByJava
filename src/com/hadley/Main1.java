@@ -19,6 +19,5 @@ public class Main1 {
         int max = coinList[people-1];
         int min = coinList[0];
 
-
     }
 }
