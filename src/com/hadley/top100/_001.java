@@ -1,4 +1,4 @@
-package com.hadley;
+package com.hadley.top100;
 
 /*
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.

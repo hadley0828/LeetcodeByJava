@@ -1,4 +1,4 @@
-package com.hadley;
+package com.hadley.top100;
 
 /*
 2020.05.24  18.4Sum

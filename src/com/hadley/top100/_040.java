@@ -1,4 +1,4 @@
-package com.hadley;
+package com.hadley.top100;
 
 import java.util.ArrayList;
 import java.util.Arrays;

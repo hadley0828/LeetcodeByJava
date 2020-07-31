@@ -1,4 +1,4 @@
-package com.hadley;
+package com.hadley.top100;
 
 /*
 2020.06.30
