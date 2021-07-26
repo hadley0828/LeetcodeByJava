@@ -1,5 +1,6 @@
 package com.hadley.oa;
 
+// Microsoft OA
 public class MS {
     public int solution1(int[] A) {
         // write your code in Java SE 8
